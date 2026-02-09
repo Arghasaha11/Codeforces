@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Elephant {
+public class Watermelon {
     public static void main(String[] args) {
         int w;
         Scanner ab = new Scanner(System.in);
